@@ -9,7 +9,7 @@
   <li>👋 Hi, I’m ThankGod Richard</li>
   <li>❤️ I love Creating websites and Android Applications.</li>
   <li>🌱 I’m currently a student at Microverse Learning Fullstack application developemt.</li>
-  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
+  <li>🧐 Portfolio Website, https://www.yumpu.com/s/LCbSfzKY83sWmrj1</li>
 </ul>
 
 #### A little more about me
@@ -26,17 +26,6 @@ const badri = {
   }
 }
 ```
-
-#### Popular Projects
-
-<a href="https://payvice.com">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
-</a>    
-<a href="http://ajocard.com">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
-</a>
 
 #### Experties
 
