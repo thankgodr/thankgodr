@@ -9,7 +9,7 @@
   <li>👋 Hi, I’m ThankGod Richard</li>
   <li>❤️ I love Creating websites and Android Applications.</li>
   <li>🌱 I’m currently a student at Microverse Learning Fullstack application developemt.</li>
-  <li>🧐 Portfolio Website, https://www.g.com/thankgodr</li>
+  <li>🧐 Portfolio Website, https://www.g.dev/thankgodr</li>
 </ul>
 
 #### A little more about me
